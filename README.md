@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Java Developer
 --------------
 
-Experienced Java/J2EE developer with over 5 years in IT, adept in Agile methodologies and front-end UI development. Proficient in Spring framework, J2EE design patterns, and database management, with hands-on experience in AWS services, API documentation, and test-driven development tools. Skilled in utilizing a range of development and automation tools for efficient project management and deployment.
+A highly skilled IT professional with over 3 years of experience in Java/J2EE technologies, specializing in analysis, design, development, and testing across multi-platform environments. Proficient in Agile methodologies (TDD, SCRUM, Waterfall), front-end development (HTML5, CSS3, ReactJS), and Core Java concepts (OOP, Collections, Multithreading). Extensive experience with Spring frameworks (Spring Boot, Spring Security, Spring MVC) and database management (MySQL, MongoDB). Adept in using tools like JUnit, Mockito, Bitbucket, and GitHub for efficient software development and testing.
 
 * 🌍  I'm based in Dallas, TX
 * ✉️  You can contact me at [abhishekduggirala65@gmail.com](mailto:abhishekduggirala65@gmail.com)
